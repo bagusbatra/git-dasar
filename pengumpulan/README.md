@@ -11,15 +11,15 @@
    * halo.txt
 
 4. Commit:
+    ```
    git add .
    git commit -m "tugas git dasar - [nama]"
    git push
+   ```
 
 5. Klik Pull Request
 
----
-
-# 📌 Format
+## 📌 Format
 
 Nama:
 Kelas:

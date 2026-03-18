@@ -12,9 +12,9 @@
 ## ✅ Cek apakah berhasil
 
 Buka CMD / Terminal:
-
+```
 git --version
-
+```
 Jika muncul versi, berarti berhasil 🎉
 
 ---
@@ -22,10 +22,10 @@ Jika muncul versi, berarti berhasil 🎉
 # 🔧 Konfigurasi Awal
 
 Masukkan nama dan email:
-
+```
 git config --global user.name "Nama Kamu"
-git config --global user.email "[email@gmail.com](mailto:email@gmail.com)"
-
+git config --global user.email "[email@gmail.com]"
+```
 ---
 
 # 📌 Kenapa ini penting?

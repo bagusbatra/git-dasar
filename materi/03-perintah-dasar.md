@@ -3,33 +3,33 @@
 ---
 
 ## 📁 1. Membuat Repository
-
+```
 git init
-
+```
 ---
 
 ## ➕ 2. Menambahkan File
-
+```
 git add .
-
+```
 ---
 
 ## 💾 3. Menyimpan Perubahan
-
+```
 git commit -m "pesan perubahan"
-
+```
 ---
 
 ## 🔍 4. Melihat Status
-
+```
 git status
-
+```
 ---
 
 ## 📜 5. Melihat Riwayat
-
+```
 git log
-
+```
 ---
 
 # 🔥 Alur Dasar Git
