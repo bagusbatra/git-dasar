@@ -1,0 +1,10 @@
+LATIHAN 2
+
+1. Edit file halo.txt
+
+2. Tambahkan:
+   Saya siap jadi programmer
+
+3. Lakukan commit lagi
+
+4. Cek perbedaannya

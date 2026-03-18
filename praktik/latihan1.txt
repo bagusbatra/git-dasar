@@ -1,0 +1,18 @@
+LATIHAN 1
+
+1. Buat folder baru
+
+2. Inisialisasi git
+
+3. Buat file:
+   halo.txt
+
+4. Isi:
+   Halo, saya belajar Git
+
+5. Lakukan:
+   git add
+   git commit
+
+6. Cek dengan:
+   git log
